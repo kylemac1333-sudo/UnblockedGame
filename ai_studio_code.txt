@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Slope",
+    "thumbnail": "https://via.placeholder.com/150",
+    "url": "https://example.com/slope-game-link"
+  },
+  {
+    "id": "2",
+    "title": "2048",
+    "thumbnail": "https://via.placeholder.com/150",
+    "url": "https://example.com/2048-game-link"
+  },
+  {
+    "id": "3",
+    "title": "Retro Bowl",
+    "thumbnail": "https://via.placeholder.com/150",
+    "url": "https://example.com/retro-bowl-link"
+  }
+]
